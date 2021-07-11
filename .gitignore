@@ -1,0 +1,6 @@
+
+mnist_dataset/train-labels-idx1-ubyte.gz
+mnist_dataset/train-images-idx3-ubyte.gz
+mnist_dataset/t10k-labels-idx1-ubyte.gz
+mnist_dataset/t10k-images-idx3-ubyte.gz
+az_dataset/A_Z Handwritten Data.csv
